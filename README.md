@@ -1,7 +1,6 @@
-# ECMAScript 2019 New Features (V)[Video]
-This is the code repository for [ECMAScript 2019 New Features (V)]
+# ECMAScript-2019-New-Features-V-
+This is the code repository for [ECMAScript 2019 New Features [Video]](https://www.packtpub.com/web-development/ecmascript-2019-new-features-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
-(https://www.packtpub.com/web-development/ecmascript-2019-new-features-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 In this course, you’ll learn how to make the best use of these features and start 
 
