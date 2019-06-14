@@ -1,0 +1,80 @@
+body,
+html {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+#container {
+  position: absolute;
+  width: 700px;
+  height: 210px;
+  border: 1px solid;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+#fullname {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 2.3em;
+  font-weight: 200;
+  left: 20px;
+  margin: 0px;
+  top: 20px;
+}
+
+#designation {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 1.3em;
+  font-weight: bold;
+  left: 20px;
+  top: 42px;
+}
+#email,
+#phone {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  left: 20px;
+  top: 75px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#phone {
+  top: 95px;
+}
+
+#divider {
+  position: absolute;
+  top: 140px;
+  left: 0px;
+  width: 700px;
+}
+
+#address {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 1.3em;
+  font-weight: normal;
+  left: 20px;
+  top: 140px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#photo {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: rgb(0, 0, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 35px;
+  right: 20px;
+  top: 110px;
+}

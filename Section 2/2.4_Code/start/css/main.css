@@ -1,0 +1,45 @@
+body,
+html {
+  width: 100%;
+  margin: 0px;
+}
+#container {
+  position: absolute;
+  width: 670px;
+  border: 1px solid;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  height: 400px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  display: block;
+}
+
+.property {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: sans-serif;
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+.propName {
+  position: relative;
+  width: 300px;
+  background-color: rgba(200, 0, 0, 0.05);
+  display: inline-block;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.propValue {
+  position: relative;
+  width: 300px;
+  background-color: rgba(200, 0, 0, 0.1);
+  display: inline-block;
+  padding: 10px;
+}

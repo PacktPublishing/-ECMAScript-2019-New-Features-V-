@@ -1,0 +1,84 @@
+body,
+html {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+#container {
+  position: absolute;
+  width: 700px;
+  height: 500px;
+  border: 1px solid;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#attendance {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  height: 320px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin-bottom: 5px;
+}
+
+#attendance h4 {
+  font-family: sans-serif;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  margin: 0;
+  font-size: 1.2em;
+  margin-bottom: 50px;
+}
+
+#dayWise {
+  position: absolute;
+  width: 700;
+  top: 50px;
+}
+
+#dayWise > li {
+  width: 600px;
+  font-size: 1.1em;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+
+#allStudents {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  height: 150px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#allStudents h4 {
+  font-family: sans-serif;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  margin: 0;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+#allStudents h2 {
+  font-family: sans-serif;
+  position: relative;
+  top: 0px;
+  left: 10px;
+  margin: 0;
+  font-size: 1.4em;
+  font-weight: normal;
+  color: rgb(100, 0, 0);
+  margin-bottom: 50px;
+}

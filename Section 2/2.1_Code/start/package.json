@@ -1,0 +1,23 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RestSpread.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "parcel-bundler": "^1.12.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
