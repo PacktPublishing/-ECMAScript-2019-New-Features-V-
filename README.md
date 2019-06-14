@@ -13,9 +13,7 @@ By the end of the course, you will be familiar with all the latest features from
 <UL>
 <LI>Understand the TC39 process for releasing new features
 <LI>Rest and Spread properties for object literals
-<LI>Discover how to overcome frequent development problems with new JavaScript 
-
-techniques
+<LI>Discover how to overcome frequent development problems with new JavaScript techniques
 <LI>Asynchronous iteration using for-await-of
 <LI>Control flow using async generators
 <LI>Enhanced Regular Expressions (RegEx) with named capture groups and more
@@ -29,34 +27,22 @@ techniques
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for web designers, developers and virtually anyone who uses 
-
-JavaScript and wants to stay ahead and write better code using the latest & 
-
-greatest features of the language. 
+This course is for web designers, developers and virtually anyone who uses JavaScript and wants to stay ahead and write better code using the latest & greatest features of the language. 
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
 
-Operating system: Linux/MacOS (Recommended
-Browser: Google Chrome v72.0 or higher
-VSCode (Recommended)  - or Sublime Text or Atom IDE, Latest Version
+Operating system: Linux/MacOS (Recommended Browser: Google Chrome v72.0 or higher)<br/>
+VSCode (Recommended)  - or Sublime Text or Atom IDE, Latest Version<br/>
 Node.js 11.10.0 or higher Installed - https://nodejs.org/en/
 
 
-
 ## Related Products
-* [ECMAScript 2016 and Beyond [Video]](https://www.packtpub.com/web-
+* [ECMAScript 2016 and Beyond [Video]](https://www.packtpub.com/web-development/ecmascript-2016-and-beyond-video)
 
-development/ecmascript-2016-and-beyond-video)
+* [Learning ECMAScript 2017 [Video]](https://www.packtpub.com/web-development/learning-ecmascript-2017-video)
 
-* [Learning ECMAScript 2017 [Video]](https://www.packtpub.com/web-
-
-development/learning-ecmascript-2017-video)
-
-* [Programming with ECMAScript 2015 [Video]](https://www.packtpub.com/web-
-
-development/programming-ecmascript-2015-video)
+* [Programming with ECMAScript 2015 [Video]](https://www.packtpub.com/web-development/programming-ecmascript-2015-video)
 
 
 
